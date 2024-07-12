@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-11 11:22:06+0000\n"
+"PO-Revision-Date: 2024-07-11 15:54:12+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13488,10 +13488,6 @@ msgstr "Limitez les résultats aux produits en fonction d’un prix minimum, fou
 msgid "The %s payment gateway is not available."
 msgstr "La passerelle de paiement %s n’est pas disponible."
 
-#: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php:579
-msgid "Database verified successfully."
-msgstr "Base de données vérifiée avec succès."
-
 #: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php:581
 msgid "Verifying database... One or more tables are still missing: "
 msgstr "Vérification de la base de données en cours… Une ou plusieurs tables sont toujours manquantes :"
@@ -13570,6 +13566,10 @@ msgstr "Obtenez des notifications sur l’activité de votre boutique, notamment
 #: src/Internal/Admin/Notes/CouponPageMoved.php:77
 msgid "Coupons can now be managed from Marketing > Coupons. Click the button below to remove the legacy WooCommerce > Coupons menu item."
 msgstr "Vous gérez désormais les codes promo dans Marketing > Codes promo. Cliquez sur le bouton ci-dessous pour supprimer l’élément de menu hérité WooCommerce > Codes promo."
+
+#: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php:579
+msgid "Database verified successfully."
+msgstr "Base de données bien vérifiée."
 
 #: src/Internal/Admin/Notes/FirstProduct.php:73
 msgid "This video tutorial will help you go through the process of adding your first product in WooCommerce."
